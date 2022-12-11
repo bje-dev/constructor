@@ -1,0 +1,13 @@
+D:\TC\constructor\Ejemplo\bin\Debug\Ejemplo.exe.config
+D:\TC\constructor\Ejemplo\bin\Debug\Ejemplo.exe
+D:\TC\constructor\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\TC\constructor\Ejemplo\bin\Debug\DOM.dll
+D:\TC\constructor\Ejemplo\bin\Debug\DOM.pdb
+D:\TC\constructor\Ejemplo\obj\Debug\Ejemplo.csprojAssemblyReference.cache
+D:\TC\constructor\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+D:\TC\constructor\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+D:\TC\constructor\Ejemplo\obj\Debug\Ejemplo.csproj.GenerateResource.cache
+D:\TC\constructor\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+D:\TC\constructor\Ejemplo\obj\Debug\Ejemplo.csproj.CopyComplete
+D:\TC\constructor\Ejemplo\obj\Debug\Ejemplo.exe
+D:\TC\constructor\Ejemplo\obj\Debug\Ejemplo.pdb

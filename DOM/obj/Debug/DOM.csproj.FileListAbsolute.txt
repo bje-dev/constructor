@@ -1,0 +1,6 @@
+D:\TC\constructor\DOM\bin\Debug\DOM.dll
+D:\TC\constructor\DOM\bin\Debug\DOM.pdb
+D:\TC\constructor\DOM\obj\Debug\DOM.csprojAssemblyReference.cache
+D:\TC\constructor\DOM\obj\Debug\DOM.csproj.CoreCompileInputs.cache
+D:\TC\constructor\DOM\obj\Debug\DOM.dll
+D:\TC\constructor\DOM\obj\Debug\DOM.pdb
